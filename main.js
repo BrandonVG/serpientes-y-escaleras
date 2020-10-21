@@ -57,5 +57,6 @@ else if(j1.posicion >= 100){
     console.log("El jugador 1 gano");
 }
 else{
+
     console.log("El jugador 2 gano");
 }
